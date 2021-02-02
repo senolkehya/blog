@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Schatje Blog</title>
+    <link href="https://senolkehya.github.io/blog/feed.xml" rel="self" />
+    <link href="https://senolkehya.github.io/blog" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <author>
+        <name>Schatje Blog Admin</name>
+    </author>
+    <id>https://senolkehya.github.io/blog</id>
+
+</feed>

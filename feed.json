@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Schatje Blog",
+    "description": "",
+    "home_page_url": "https://senolkehya.github.io/blog",
+    "feed_url": "https://senolkehya.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Schatje Blog Admin"
+    },
+    "items": [
+    ]
+}
