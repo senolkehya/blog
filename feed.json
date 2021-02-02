@@ -9,5 +9,19 @@
         "name": "Schatje Blog Admin"
     },
     "items": [
+        {
+            "id": "https://senolkehya.github.io/blog/test-blog-post.html",
+            "url": "https://senolkehya.github.io/blog/test-blog-post.html",
+            "title": "Test Blog Post",
+            "summary": " This is a test blog post. ",
+            "content_html": "\n  <p>\n    This is a test blog post.\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Schatje Blog Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-02T23:42:44+03:00",
+            "date_modified": "2021-02-02T23:42:44+03:00"
+        }
     ]
 }
